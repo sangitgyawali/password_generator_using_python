@@ -1,6 +1,7 @@
 # 🔐 Password Generator using Python
 
-A simple Python program that generates strong and random passwords based on user preferences.
+A simple and interactive Python program to generate strong, secure, and customizable passwords.
+
 ---
 
 ## 🚀 Features
@@ -16,8 +17,6 @@ A simple Python program that generates strong and random passwords based on user
 ---
 
 ## 🖥️ How to Run
-
-### Clone the Repository
 
 ```bash
 git clone https://github.com/sangitgyawali/password_generator_using_python.git
