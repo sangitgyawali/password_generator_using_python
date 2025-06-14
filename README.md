@@ -8,9 +8,9 @@ A simple and interactive Python program to generate strong, secure, and customiz
 
 - Generate passwords of custom length
 - Option to include:
-  - ✅ Uppercase letters
-  - ✅ Digits
-  - ✅ Special characters (symbols)
+  - Uppercase letters
+  - Digits
+  - Special characters (symbols)
 - Built using only Python's standard libraries (`random`, `string`)
 - Beginner-friendly CLI interface
 
