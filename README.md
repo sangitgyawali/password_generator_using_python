@@ -18,7 +18,7 @@ A simple and interactive Python program to generate strong, secure, and customiz
 
 ## 🖥️ How to Run
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/sangitgyawali/password_generator_using_python.git
